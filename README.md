@@ -8,6 +8,9 @@ This is not designed to be pretty! Simply a way to solidify new html skills.
 I will demonstrate the following:
 
 Make lists
+
 Make GOOD commit messages
+
 Add links and images
+
 Use basic syntax
