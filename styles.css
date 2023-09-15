@@ -2,6 +2,11 @@
     font-family: Monaco, "Lucinda Console", monospace;
 }
 
+#bananabread {
+    height: 500px;
+    width: auto;
+}
+
 .unorderedhome {
     line-height: 4;
     list-style-type: none;
