@@ -1,0 +1,20 @@
+/* blueberry yoghurt cake styling */
+
+*{
+    font-family: "Lucida Handwriting", cursive;
+}
+
+
+
+#bloobyoghurt {
+    height: 420px;
+    width: auto;
+}
+
+.bloobingredients {
+    border: 3px solid blue;
+}
+
+.bloobmethod {
+    border: 3px solid blue;
+}
