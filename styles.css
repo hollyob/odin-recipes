@@ -10,6 +10,7 @@
 .unorderedhome {
     line-height: 4;
     list-style-type: none;
+    column-count: 2;
 }
 
 #homepageimage {

@@ -12,9 +12,22 @@
 }
 
 .bloobingredients {
-    border: 3px solid blue;
+    border: 3px solid grey;
+    margin-bottom: 20px;
 }
 
 .bloobmethod {
-    border: 3px solid blue;
+    border: 3px solid grey;
 }
+
+.back-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 70px 50% 70px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
